@@ -29,3 +29,4 @@ You want to contribute? Go ahead and make a pull request and I'll look into it a
 # Copying
 No problem, just check the [`LICENSE.md`](LICENSE.md).
 Check the [wiki](https://github.com/Ankrad/Discord-Bot-List/wiki) for a setup guide.
+[![Run on Repl.it](https://repl.it/badge/github/Sank6/Discord-Bot-List)](https://repl.it/github/Sank6/Discord-Bot-List)
